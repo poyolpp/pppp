@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dhfisdh 
+=======
+dhfisdh hdjfh
+>>>>>>> feature2
